@@ -1,0 +1,6 @@
+{
+  "name": "SGTB Khalsa College Lost & Found Portal",
+  "description": "Official student and campus lost and found repository for Sri Guru Tegh Bahadur Khalsa College, University of Delhi. Report lost belongings, log found items, check proctorial safekeeping, and reunite items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
